@@ -8,3 +8,7 @@ p{
 button {
     color: green;
 }
+
+ul {
+    list-style-type: none;
+}
