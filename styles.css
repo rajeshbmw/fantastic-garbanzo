@@ -1,3 +1,6 @@
 body {
     background-color: lightgrey;
 }
+p{
+    font-weight: bold;
+}
